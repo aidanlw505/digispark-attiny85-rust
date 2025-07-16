@@ -17,6 +17,8 @@ cargo install elf2nucleus
 Then you can simple run
 
 ```
+git clone git@github.com:aidanlw505/digispark-attiny85-rust.git
+cd digispark-attiny85-rust
 cargo run --release
 ```
 
