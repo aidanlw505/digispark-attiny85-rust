@@ -7,7 +7,7 @@ Example to get you running rust on a Digispark attiny85 board quickly
 
 Install `avr-gcc`, `avr-libc`, `micronucleus` and `elf2nucleus`
 
-Assuming you already have a rust envoriment, you can run
+Assuming you already have a rust environment, you can run the following on Fedora:
 
 ```
 sudo dnf install avr-gcc avr-libc micronucleus
